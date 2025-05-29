@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics1", "Basics1\Basics1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays1", "Arrays1\Arrays1.csproj", "{A9B29F7E-129D-4371-AAE0-315DE4D5D202}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookworm", "Bookworm\Bookworm.csproj", "{493FCD31-9937-4791-B216-00AC14684C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingInventory", "GamingInventory\GamingInventory.csproj", "{301DDA48-989A-471C-AF5F-3C3B96FE2448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{A9B29F7E-129D-4371-AAE0-315DE4D5D202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9B29F7E-129D-4371-AAE0-315DE4D5D202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9B29F7E-129D-4371-AAE0-315DE4D5D202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493FCD31-9937-4791-B216-00AC14684C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493FCD31-9937-4791-B216-00AC14684C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493FCD31-9937-4791-B216-00AC14684C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493FCD31-9937-4791-B216-00AC14684C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301DDA48-989A-471C-AF5F-3C3B96FE2448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301DDA48-989A-471C-AF5F-3C3B96FE2448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301DDA48-989A-471C-AF5F-3C3B96FE2448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301DDA48-989A-471C-AF5F-3C3B96FE2448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
